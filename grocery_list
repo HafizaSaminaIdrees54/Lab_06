@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("1. Milk");
         Console.WriteLine("2. Eggs");
         Console.WriteLine("3. Bread");
-        Console.WriteLine("4. Rice");
+        Console.WriteLine("4. Orange Juice");
         Console.WriteLine("5. Apples");
     }
 }
