@@ -1,0 +1,14 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Grocery List:");
+        Console.WriteLine("1. Milk");
+        Console.WriteLine("2. Eggs");
+        Console.WriteLine("3. Bread");
+        Console.WriteLine("4. Rice");
+        Console.WriteLine("5. Apples");
+    }
+}
